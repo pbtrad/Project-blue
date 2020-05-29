@@ -150,15 +150,18 @@ hr.socket {
     
 }
  .jumbotron {
-    margin: auto;
-    width: 50%;
+    /*margin: auto;*/
+    width: 61%;
     border: 3px solid #989b9b;
     padding: 10px;
+    margin-top: 100px;
  }
 
  .jumbotron h1 {
      text-transform: uppercase;
  }
+
+
 
 @media screen and (max-width: 600px) {
     .navbar {
@@ -188,10 +191,7 @@ hr.socket {
     }
 
     .footer div {
-        background-color: rgba(0, 0, 0, 0.0);
-       
+        background-color: rgba(0, 0, 0, 0.5);
     }
 
-    
-        
 }
